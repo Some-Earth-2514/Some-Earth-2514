@@ -1,5 +1,6 @@
-### Hi there 👋
-My name is Samarth Gupta
+### Samarth Gupta - @Some-Earth-2514
+Hi I'm Samarth - currently a undergrad student at the University of Connecticut, GO HUSKIES! 
+
 
 <!--
 **Some-Earth-2514/Some-Earth-2514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
