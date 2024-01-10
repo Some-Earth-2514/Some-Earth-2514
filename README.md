@@ -1,8 +1,8 @@
-# Samarth Gupta - @Some-Earth-2514
+# Hi there, I'm Samarth Gupta
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-Hi I'm Samarth - currently a undergrad student at the University of Connecticut, GO HUSKIES! 
+Hello World I am Samarth - currently a undergrad student at the University of Connecticut, GO HUSKIES! 
 
 <!--
 **Some-Earth-2514/Some-Earth-2514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
